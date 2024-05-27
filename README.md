@@ -36,11 +36,15 @@ Open http://localhost:3000.
 ## Usage
 
 Encrypt Text: Input text, click "Encrypt and Generate QR Code".
+
 Decrypt Text: Upload QR code, view decrypted text.
 
 ## Technologies
 
 React
+
 JavaScript (AES encryption via crypto-js)
+
 QR code generation (qrcode.react)
+
 QR code scanning (react-qr-reader)
